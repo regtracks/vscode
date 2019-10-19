@@ -88,7 +88,7 @@
         },
         "range": {
             "name": "range.regtracks",
-            "match": ". (to) .",
+            "match": "\\S (to) \\S",
             "captures": {
                 "1": {
                     "name": "keyword.operator.regtracks"
