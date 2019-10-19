@@ -2,11 +2,12 @@
     "name": "regtracks",
     "displayName": "RegTracks syntax highlighting",
     "description": "Syntax highlighting for RegTracks",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "jamesthistlewood",
     "repository": {
         "url": "https://github.com/regtracks/vscode/"
     },
+    "icon": "icons/logo.png",
     "engines": {
         "vscode": "^1.39.0"
     },
